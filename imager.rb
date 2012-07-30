@@ -1,4 +1,4 @@
-require "chunky_png"
+require "oily_png"
 require "sinatra"
 
 configure do
